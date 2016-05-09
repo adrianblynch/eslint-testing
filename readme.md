@@ -2,6 +2,8 @@
 
 Working out the hows and whys of ESLint.
 
+I had questions about how config was used in root and sub folders so this highlights, to me anyway, how it works.
+
 ## Config files
 
 All config files (.eslintrc) are read and used, with nested files overriding prior files.
